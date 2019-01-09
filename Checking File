@@ -6,3 +6,6 @@ Now I am adding this line to create New Branch named ver 2.0 to my master brach
 In these we are trying to conflict with ver 2.0 branch from master branch and see what happens before a pull request from ver 2.0 branch
 Just wait and watch for seeing the difference
 >>>> master
+
+
+This is after merging the ver 2.0 branch with master branch
