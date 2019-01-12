@@ -1,2 +1,3 @@
 Created after merging firstbranch to master branch
+git commit -a -m "Merge without add as already added to Index"
 
